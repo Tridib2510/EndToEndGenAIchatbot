@@ -1,0 +1,1 @@
+This is a GenAI QNA chatbot using langchain
